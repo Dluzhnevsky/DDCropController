@@ -1,6 +1,4 @@
 # DDCropController
-
-## Description
 DDCropController is my take on a simple yet somewhat complicated task of providing users with a tool to crop the UIImage to a defined asepct ratio.
 
 ## Screenshots
